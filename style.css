@@ -1,0 +1,21 @@
+
+* {
+	font-family: 'Inter', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+}
+main {
+	background: blue;
+	width: 100%;
+	height: 650px;
+
+}
+
+.caixa-resultado {
+	width: 35%;
+	height: 90%;
+	position: absolute;
+	left: 850px;
+	top: 20px;
+	background: white;
+}
